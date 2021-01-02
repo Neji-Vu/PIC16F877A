@@ -2,6 +2,7 @@ int a=0;
 
 test aaaa
 test aaa tiep
+test a lan nua
 
 
 void main(void){
