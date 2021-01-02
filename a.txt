@@ -1,5 +1,7 @@
 int a=0;
 
+test aaaa
+
 void main(void){
 return
 }
