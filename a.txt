@@ -1,6 +1,8 @@
 int a=0;
 
 test aaaa
+test aaa tiep
+
 
 void main(void){
 return
