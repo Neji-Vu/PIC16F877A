@@ -3,6 +3,8 @@ int a=0;
 test aaaa
 test aaa tiep
 
+test b
+
 
 void main(void){
 return
