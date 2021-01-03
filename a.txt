@@ -1,6 +1,6 @@
 int a=0;
 
-test
+test 10
 void main(void){
 return
 }
