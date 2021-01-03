@@ -1,5 +1,6 @@
 int a=0;
 
+test
 void main(void){
 return
 }
